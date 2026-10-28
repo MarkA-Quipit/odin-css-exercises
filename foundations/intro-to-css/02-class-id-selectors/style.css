@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odds {
+    background-color: rgb(255, 178, 178);
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+.odds.differ {
+    font-size: 1.5rem;
+}
+
+#number-two {
+    color: blue;
+    font-size: 2rem;
+}
+
+#number-four {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: rgb(120, 249, 120);
+}
