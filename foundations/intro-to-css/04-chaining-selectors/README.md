@@ -16,6 +16,8 @@ The properties you need to add to each element are:
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you properly chain class selectors for each rule?
-- Does the `proportioned` image retain its original square proportions?
-- Does the `distorted` image end up looking squished and, well, distorted?
+- Did you properly chain class selectors for each rule? `"Yes:`
+- Does the `proportioned` image retain its original square proportions? `"Yes"`
+- Does the `distorted` image end up looking squished and, well, distorted? `"Yes"`
+
+`"I followed the readme for this exercise and actually this is a new knowledge for me, as this hasn't been lectured to me and I didn't know this beforehand, that's why I used this previously on 02-class-id-selectors, as an additional exercise for me. I think from now on, I might use it everywhere LOL"`
