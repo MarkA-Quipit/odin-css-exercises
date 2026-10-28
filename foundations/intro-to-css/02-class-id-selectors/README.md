@@ -20,6 +20,8 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 
 ### Self Check
-- Do the odd numbered `p` elements share a class?
-- Do the even numbered `div` elements have unique IDs?
-- Does the Number 3 element have multiple classes?
+- Do the odd numbered `p` elements share a class? `"Yes"`
+- Do the even numbered `div` elements have unique IDs? `"Yes"`
+- Does the Number 3 element have multiple classes? `"Yes, I used the chaining selector"`
+
+`"On the previous exercise, I only focused in the desired outcome without checking the readme file. Now, I did checked the readme file and make my exercise based on what is stated requirements, thus being a bit faster than previously."`
