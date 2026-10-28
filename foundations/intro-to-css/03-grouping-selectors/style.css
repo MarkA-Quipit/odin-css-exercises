@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.btn-click, .btn-another {
+    font-size: 1.75rem;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.btn-click {
+    color: #ffffff;
+    background-color: hwb(0 0% 100%);
+}
+
+.btn-another {
+    background-color: hsl(60, 100%, 50%);
+}
