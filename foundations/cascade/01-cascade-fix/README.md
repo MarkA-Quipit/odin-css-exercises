@@ -14,5 +14,7 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ### Self Check
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? `"Yes"`
+- If you added selectors to the CSS, do they target a valid HTML element? `"Yes"`
+
+`"I followed the rules for this exercise stated in this readme, and this has been a good exercise for me for the precedence rule of css that will be extra helpful for custom made CSS. I temporarily removed Arial to check if the weight of the fonts do adapt and later bring it back again to satisfy the rules stated"`
