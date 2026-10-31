@@ -11,10 +11,22 @@ wide:
 ![wide](./desired-outcome-wide.png)
 
 ### Self Check
-- There is space between all items and the edge of the header (specific px amount doesn't matter here).
+- There is space between all items and the edge of the header (specific px amount doesn't matter here). 
+`"Noted"`
 - Logo is centered vertically and horizontally.
+`"Followed"`
 - list-items are horizontal, and are centered vertically inside the header.
+`"Followed"`
 - left-links and right-links are pushed all the way to the left and right, and stay at the edge of the header when the page is resized.
+`"Followed"`
 - Your solution does not use floats, inline-block, or absolute positioning.
-
+`"I didn't"`
 - Note: For this exercise, it's completely acceptable to not match the font-family.
+`"Noted"`
+
+
+`"It's starting, currently I salvaged myself from using intermediate syntax like flex-wrap, as I finished Josh W Comeau's Interactive tutorial, which I learned a lot but it already tackles wrap whereas on the TOP lesson didn't. CSS has many syntaxes that I do this meme:"`
+
+![random ** go meme](image.png)
+
+`"Pardon the language"`
