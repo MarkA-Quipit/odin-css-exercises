@@ -12,6 +12,11 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+
+  /* Mark's Solution */
+  display: flex;
+  align-items: center;
+  padding: 8px;
 }
 
 .profile-image {
@@ -29,12 +34,32 @@ body {
   font-style: italic;
 }
 
-button {
+/* Mark's Solution */
+.links {
+  display: flex;
+  gap: 16px;
+}
+
+/* Mark's Solution */
+.left-header, .right-header {
+  display: flex;
+  gap: 16px;
+}
+
+/* Mark's Solution */
+.left-header {
+  margin-right: auto;
+}
+
+.notifications { /* Rename from button to mention class instead as other buttons might differ in design */
   border: none;
   border-radius: 8px;
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+
+  /* Mark's Solution */
+  align-self: center; /* This is for retaining its width and height */
 }
 
 a {
@@ -45,4 +70,7 @@ a {
 
 ul {
   list-style-type: none;
+
+  /* Mark's Solution */
+  padding: 0;
 }
