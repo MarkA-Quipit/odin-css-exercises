@@ -13,10 +13,21 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 ### Self Check
 
 - The header is at the top of the page, the footer is at the bottom, and they stay in place if you resize your screen.
+`"Done"`
 - The header and footer have padding.
+`"Done"`
 - The links in the header and footer are pushed to either side.
+`"Done"`
 - There is space between the links in the header and footer.
+`"Done"`
 - The footer has a light gray background (`#eeeeee`).
+`"Done"`
 - The logo, input and buttons are centered in the screen.
+`"Done"`
 - The buttons have an appropriate amount of padding.
+`"Done"`
 - There is space between the logo, input and buttons.
+`"Done"`
+
+
+`"I do kind of getting it now, although some of what I do is being repeated many times, I do feel that I am grasping how flex must be used and I now do have a mental image without the inspect in web"`
